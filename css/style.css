@@ -93,6 +93,7 @@ button{
     color:rgb(225, 225, 225);
 }
 button:hover{
+    text-shadow: 1px 1px 1px rgba(7, 7, 7, 0.75);
     color:rgb(225, 225, 225);
     cursor: pointer;
     background-color:  rgb(2, 188, 110);
