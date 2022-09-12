@@ -94,7 +94,7 @@ button{
 }
 button:hover{
     cursor: pointer;
-    background-color:  rgb(10, 139, 85);
+    background-color:  rgb(8, 180, 108);
     box-shadow: 1px 2px 5px 1px  rgb(3, 71, 43);
 }
 .job{
