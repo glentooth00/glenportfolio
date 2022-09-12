@@ -85,16 +85,17 @@ a:hover{
 }
 button{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color:rgb(3, 110, 66);
+    background-color:rgb(6, 157, 94);
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     border-radius: 10px;
     border-style: none;
-    color:rgb(209, 209, 209);
+    color:rgb(225, 225, 225);
 }
 button:hover{
+    color: rgb(255, 255, 255);
     cursor: pointer;
-    background-color:  rgb(8, 180, 108);
+    background-color:  rgb(7, 224, 134);
     box-shadow: 1px 2px 5px 1px  rgb(3, 71, 43);
 }
 .job{
